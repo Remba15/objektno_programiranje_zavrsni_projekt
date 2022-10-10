@@ -1,0 +1,17 @@
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\bin\Debug\net6.0-windows\Zork-styled game.exe
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\bin\Debug\net6.0-windows\Zork-styled game.deps.json
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\bin\Debug\net6.0-windows\Zork-styled game.runtimeconfig.json
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\bin\Debug\net6.0-windows\Zork-styled game.dll
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\bin\Debug\net6.0-windows\Zork-styled game.pdb
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\obj\Debug\net6.0-windows\Zork-styled game.csproj.AssemblyReference.cache
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\obj\Debug\net6.0-windows\Zork_styled_game.Form1.resources
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\obj\Debug\net6.0-windows\Zork-styled game.csproj.GenerateResource.cache
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\obj\Debug\net6.0-windows\Zork-styled game.GeneratedMSBuildEditorConfig.editorconfig
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\obj\Debug\net6.0-windows\Zork-styled game.AssemblyInfoInputs.cache
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\obj\Debug\net6.0-windows\Zork-styled game.AssemblyInfo.cs
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\obj\Debug\net6.0-windows\Zork-styled game.csproj.CoreCompileInputs.cache
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\obj\Debug\net6.0-windows\Zork-styled game.dll
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\obj\Debug\net6.0-windows\refint\Zork-styled game.dll
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\obj\Debug\net6.0-windows\Zork-styled game.pdb
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\obj\Debug\net6.0-windows\Zork-styled game.genruntimeconfig.cache
+F:\FAKS\DKB\Objektno programiranje\Projekt\Klijent\Zork-styled game\obj\Debug\net6.0-windows\ref\Zork-styled game.dll
